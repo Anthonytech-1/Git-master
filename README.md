@@ -5,9 +5,9 @@
 **Team:** Benstrov  
 **Spelvolgorde & contact:**
 1. Ejuwaldi – <42060@ma-web.nl>
-2. <Vincent> – <41587@ma-web.nl>
-3. <Stijn> – <41586@ma-web.nl>
-4. <Gillian> – <41724@ma-web.nl>
+2. Vincent – <41587@ma-web.nl>
+3. Stijn – <41586@ma-web.nl>
+4. Gillian – <41724@ma-web.nl>
 
 ---
 
@@ -24,5 +24,5 @@
 ---
 
 ## Beurtenlog
-- beurt1: <Ejuwaldi> gokt "?"
+- beurt1: Ejuwaldi gokt "?"
 - beurt2: Stijn
