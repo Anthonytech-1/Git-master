@@ -24,5 +24,5 @@
 ---
 
 ## Beurtenlog
-- beurt1: Ejuwaldi gokt "?"
-- beurt2: Stijn
+- beurt1: Ejuwaldi gokt goed "?"
+- beurt2: Stijn gokt slecht
